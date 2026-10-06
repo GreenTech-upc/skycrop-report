@@ -167,8 +167,16 @@ Las métricas reflejan la actividad registrada en GitHub. La calidad de los apor
       - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.X.8. Team Collaboration Insights during Sprint.](#52x8-team-collaboration-insights-during-sprint)
-  - [](#)
+      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2.](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2.](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review.](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -2182,16 +2190,45 @@ ilustrativos.
 
 **URL del Landing Page desplegado:** https://greentech-upc.github.io/Landing-Page/
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint. 
+#### 5.2.1.8. Team Collaboration Insights during Sprint. 
 
 La captura de Pulse del repositorio de la Landing Page corresponde al período del 13 al 20 de septiembre de 2026. Muestra cinco pull requests integrados, cuatro autores y nueve commits, excluyendo merges. Estas cifras describen la actividad registrada durante el intervalo seleccionado.
 
 ![Insights-LP.png](resources/imgs/chapter_5/Insights-LP.png)
+
 ---
 
 La captura de Contributors presenta aportes de notoriussxd, DanLandio, DiegoPumahualcca y Yam-1CG, con tres, tres, dos y un commit, respectivamente. El período del filtro no aparece en la imagen, por lo que estos valores se describen de forma independiente del intervalo de Pulse. La evidencia de ejecución y las responsabilidades del sprint complementan estas métricas para evaluar la calidad, el cumplimiento y la participación del equipo.
 
 ![Contributors.png](resources/imgs/chapter_5/Contributors.png)
+
+### 5.2.2. Sprint 2 
+
+
+#### 5.2.2.1. Sprint Planning 2. 
+
+
+#### 5.2.2.2. Aspect Leaders and Collaborators. 
+
+
+#### 5.2.2.3. Sprint Backlog 2. 
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review. 
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review. 
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+
 
 # Conclusiones 
 
