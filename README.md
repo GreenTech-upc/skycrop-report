@@ -2157,6 +2157,8 @@ ilustrativos.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review. 
 
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review. 
 
 
@@ -2204,15 +2206,238 @@ La captura de Contributors presenta aportes de notoriussxd, DanLandio, DiegoPuma
 
 ### 5.2.2. Sprint 2 
 
-
 #### 5.2.2.1. Sprint Planning 2. 
 
+El Sprint Planning 2 se enfoca en el desarrollo y despliegue de la primera versión funcional de la pagina Frontend de SkyCrop. 
+
+| **Sprint #** | Sprint 2 |
+| :--- | :--- |
+| **Sprint Planning Background** | |
+| **Date** | 2026-05-10 |
+| **Time** | 14:00 PM |
+| **Location** | Reunión virtual mediante Discord |
+| **Prepared By** | Landa Sanchez, Sunio Danilo |
+| **Attendees (to planning meeting)** | Landa Sanchez, Sunio Danilo / Cano Gomez, Yam Antony Gabriel / Jonseck Choque, Oliver / Rubio Ortiz, Luis Sebastián / Pumahualcca Garcia, Diego Rodrigo |
+| **Sprint 1 Review Summary** |  |
+| **Sprint 1 Retrospective Summary** | |
+| **Sprint Goal & User Stories** | |
+| **Sprint 2 Goal** | Nuestro enfoque está en implementar el la aplicación web frontend de SkyCrop, que contenga funcionalidades clave para nuestro negocio, tales como el registro y consulta de información de las parcelas y los drones, la visualización de informes y diagnosticos, y la revisión de las rutinas de vuelo plaificadas. Creemos que esta aplicación facilitará la realización de transacciones dentro de la plataforma y permitirá que se agreguen y accedan a nuevas funcionalidades a ser desarrolladas. Esto se confirmará cuando los usuarios puedan acceder a los servicios de la plataforma SkyCrop y generar registros en el sistema dentro de la aplicación web. |
+| **Sprint 2 Velocity** | 14 |
+| **Sum of Story Points** | 24 |
+
+La estimación inicial de story points cubre nueve historias seleccionadas: US-11 (2), US-12 (1), US-14 (2), US-15 (1), US-17 (5), US-18 (5), US-23 (3), US-25 (2), US-31 (3) que suman 24 Story Points. Al tratarse del primer sprint, este valor corresponde a una referencia de planificación y no a una velocidad histórica medida. Las estimaciones de tareas expresan esfuerzo en horas-persona y se mantienen separadas de los Story Points.
 
 #### 5.2.2.2. Aspect Leaders and Collaborators. 
 
 
 #### 5.2.2.3. Sprint Backlog 2. 
 
+
+<div align="center">
+<table border="1">
+  <tr>
+    <th>Sprint #</th>
+    <th colspan="7">Sprint 2</th>
+  </tr>
+
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work Item / Task</th>
+  </tr>
+
+  <tr>
+    <th>Story ID</th>
+    <th>Story Title</th>
+    <th>Task ID</th>
+    <th>Task Title</th>
+    <th>Task Description</th>
+    <th>Estimation (hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-11</td>
+    <td rowspan="2">Registro de parcela</td>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-12</td>
+    <td rowspan="2">Consulta de estado de una parcela</td>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-14</td>
+    <td rowspan="2">Registro de cultivos en una parcela</td>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-15</td>
+    <td rowspan="2">Consulta de información de los cultivos</td>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-17</td>
+    <td rowspan="2">Conectar el dron</td>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-18</td>
+    <td rowspan="2">Gestionar la rutina de vuelo</td>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-23</td>
+    <td rowspan="2">Generación de diagnóstico</td>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-25</td>
+    <td rowspan="2">Historial de diagnósticos</td>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-31</td>
+    <td rowspan="2">Creación de reporte según la estación</td>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>T</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+</table>
+</div>
 
 #### 5.2.2.4. Development Evidence for Sprint Review. 
 
