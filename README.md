@@ -2102,9 +2102,56 @@ Enlace: https://trello.com/b/v9IDjQLu/sprint-backlog-1
 
 Las tareas se presentan en bloques de ingeniería de entre 4 y 8 horas-persona. Los identificadores originales se conservan para relacionar cada bloque con las evidencias existentes y los aportes de sus responsables. La revisión mantiene un esfuerzo total estimado de 63 horas-persona; redistribuye el esfuerzo de beneficios entre el filtro compartido y su integración por segmento. Las horas corresponden a estimaciones revisadas, no a registros de tiempo ejecutado. La captura de Trello conserva la organización anterior; la tabla siguiente presenta la agrupación revisada.
 
+
+<div align="center">
+<table border="1">
+  <tr>
+    <th>Sprint #</th>
+    <th colspan="7">Sprint 2</th>
+  </tr>
+
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work Item / Task</th>
+  </tr>
+
+  <tr>
+    <th>Story ID</th>
+    <th>Story Title</th>
+    <th>Task ID</th>
+    <th>Task Title</th>
+    <th>Task Description</th>
+    <th>Estimation (hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+
+  
+  <tr>
+    <td rowspan="2">US-36</td>
+    <td rowspan="2">Presentación de SkyCrop</td>
+    <td>UT-01</td>
+    <td>Preparar la base</td>
+    <td>Configurar el repositorio y la estructura de archivos</td>
+    <td>2</td>
+    <td>Diego Pumahualcca</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>UT-02</td>
+    <td>Preparar la presentación de la pagina</td>
+    <td>Maquetar la sección Hero con descripción y botón de acceso provisional</td>
+    <td>4</td>
+    <td>Diego Pumahualcca</td>
+    <td>Done</td>
+  </tr>
+
+</table>
+</div>
+
 | Story Id | Story Title | Task Id | Task Title | Task Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process / To-Review / Done) |
 | :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
-| US-36 | Presentación de SkyCrop | UT-01 / UT-12 | Preparar la base y la presentación de la landing | Configurar el repositorio y la estructura HTML/CSS/JS, y maquetar la sección Hero con descripción y botón de acceso provisional. | 6 | Diego Pumahualcca | Done |
 | US-37 | Demostración de funcionalidades de SkyCrop | UT-02 / UT-03 | Implementar la sección de funcionalidades | Maquetar los bloques de mapeo, telemetría y drones e incorporar las imágenes ilustrativas. | 6 | Oliver Jonseck (maquetación); Yam Cano (imágenes) | Done |
 | US-38 / US-39 | Beneficios por segmento | UT-04 / UT-05 | Implementar las tarjetas agrícolas y el filtro por perfil | Maquetar los beneficios para agricultores e implementar el filtro Agricultor / Agrónomo utilizado por ambas historias. | 4 | Yam Cano (tarjetas); Diego Pumahualcca (filtro) | Done |
 | US-39 | Muestra de beneficios para agrónomos | UT-06 | Integrar los beneficios para agrónomos | Redactar y maquetar los beneficios para agrónomos y verificar su visualización al cambiar de perfil mediante el filtro compartido. | 5 | Oliver Jonseck | Done |
