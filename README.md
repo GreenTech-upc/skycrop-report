@@ -2142,26 +2142,175 @@ Las tareas se presentan en bloques de ingeniería de entre 4 y 8 horas-persona. 
     <td>UT-02</td>
     <td>Preparar la presentación de la pagina</td>
     <td>Maquetar la sección Hero con descripción y botón de acceso provisional</td>
-    <td>4</td>
+    <td>3</td>
     <td>Diego Pumahualcca</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-37</td>
+    <td rowspan="2">Demostración de funcionalidades de SkyCrop</td>
+    <td>UT-03</td>
+    <td>Implementar la sección de funcionalidades</td>
+    <td>Maquetar los bloques ded mapeo, telemetria y drones e </td>
+    <td>2</td>
+    <td>Oliver Jonseck</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>UT-04</td>
+    <td>Agregar imagenes de funcionalidades</td>
+    <td>Incorporar imagenes a la sección de funcionalidades</td>
+    <td>2</td>
+    <td>Yam Cano</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-38</td>
+    <td rowspan="2">Muestra de beneficios para agricultores</td>
+    <td>UT-05</td>
+    <td>Implementar las tarjetas agrícolas</td>
+    <td>Maquetar los beneficios para agricultores</td>
+    <td>2</td>
+    <td>Yam Cano</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>UT-06</td>
+    <td>Implementar los filtros por perfil</td>
+    <td>Implementar el filtro de Agricultor y Agrónomo</td>
+    <td>2</td>
+    <td>Diego Pumahualcca</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US-39</td>
+    <td>Muestra de beneficios para agrónomos</td>
+    <td>UT-07</td>
+    <td>Integrar los beneficios para agrónomos</td>
+    <td>Redactar y maquetar los beneficios para agrónomos y verificar su visualización al cambiar de perfil mediante el filtro compartido.</td>
+    <td>5</td>
+    <td>Oliver Jonseck</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US-40</td>
+    <td>Planes de subscripciones y precios</td>
+    <td>UT-08</td>
+    <td>Implementar la cuadrícula de planes</td>
+    <td>Maquetar costos mensuales, características y botones de subscripción de cada plan</td>
+    <td>4</td>
+    <td>Sunio Landa</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">US-41</td>
+    <td rowspan="2">Opción de contacto</td>
+    <td>UT-09</td>
+    <td>Implementar el diseño del formulario</td>
+    <td>Crear los campos de contacto, </td>
+    <td>2</td>
+    <td>Yam Cano</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>UT-10</td>
+    <td>Implementar el envío del formulario</td>
+    <td>Validar los datos de formulario e integrar el servicio externo</td>
+    <td>3</td>
+    <td>Oliver Jonseck</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US-42</td>
+    <td>Navegación rápida por la Landing Page</td>
+    <td>UT-11</td>
+    <td>Implementar la navegación por las secciones de la pagina</td>
+    <td>Crear un menú fijo con desplazamiento a secciones</td>
+    <td>3</td>
+    <td>Diego Pumahualcca</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>US-43</td>
+    <td>Pie de pagina informativo</td>
+    <td>UT-12</td>
+    <td>Implementar el pie de página</td>
+    <td>Agregar enlace, politicas y medios de contacto en el footer</td>
+    <td>2</td>
+    <td>Yam Cano</td>
+    <td>Done</td>
+  </tr>
+
+
+  <tr>
+    <td rowspan="6">-</td>
+    <td rowspan="6">-</td>
+    <td>UT-13</td>
+    <td>Definir fundamentos visuales y wireframes</td>
+    <td>Establecer paleta, tipografía y espaciados en Figma y elaborar los wireframes de la landing para escritorio y móvil.</td>
+    <td>5</td>
+    <td>Sebastián Rubio</td>
+    <td>Done</td>
+  </tr>
+
+
+  <tr>
+    <td>UT-14</td>
+    <td>Diseñar los mock-ups de la landing</td>
+    <td>Elaborar los mock-ups de las secciones en Figma.</td>
+    <td>5</td>
+    <td>Sunio Landa</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>UT-15</td>
+    <td>Verificar el diseño adaptable y publicar la landing</td>
+    <td>Revisar la visualización en móvil y escritorio, corregir desbordes</td>
+    <td>2</td>
+    <td>Oliver Jonseck</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>UT-16</td>
+    <td>Publicar la landing</td>
+    <td>Configurar GitHub Pages con verificación de la URL pública.</td>
+    <td>2</td>
+    <td>Sunio Landa</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>UT-17</td>
+    <td>Documentar la planificación del sprint</td>
+    <td>Registrar planificación, responsabilidades, backlog, commits, ejecución, despliegue e insights</td>
+    <td>5</td>
+    <td>Yam Cano</td>
+    <td>Done</td>
+  </tr>
+
+  <tr>
+    <td>UT-18</td>
+    <td>Documentar las evidencias del sprint</td>
+    <td>Registrar evidencias de lo logrado en el sprint</td>
+    <td>2</td>
+    <td>Sunio Landa</td>
     <td>Done</td>
   </tr>
 
 </table>
 </div>
-
-| Story Id | Story Title | Task Id | Task Title | Task Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process / To-Review / Done) |
-| :---: | :--- | :---: | :--- | :--- | :---: | :--- | :---: |
-| US-37 | Demostración de funcionalidades de SkyCrop | UT-02 / UT-03 | Implementar la sección de funcionalidades | Maquetar los bloques de mapeo, telemetría y drones e incorporar las imágenes ilustrativas. | 6 | Oliver Jonseck (maquetación); Yam Cano (imágenes) | Done |
-| US-38 / US-39 | Beneficios por segmento | UT-04 / UT-05 | Implementar las tarjetas agrícolas y el filtro por perfil | Maquetar los beneficios para agricultores e implementar el filtro Agricultor / Agrónomo utilizado por ambas historias. | 4 | Yam Cano (tarjetas); Diego Pumahualcca (filtro) | Done |
-| US-39 | Muestra de beneficios para agrónomos | UT-06 | Integrar los beneficios para agrónomos | Redactar y maquetar los beneficios para agrónomos y verificar su visualización al cambiar de perfil mediante el filtro compartido. | 5 | Oliver Jonseck | Done |
-| US-40 | Planes de subscripciones y precios | UT-07 | Implementar la cuadrícula de planes | Maquetar costos mensuales, características y botones de suscripción de cada plan. | 4 | Sunio Landa | Done |
-| US-41 | Opción de contacto | UT-08 / UT-09 | Implementar el formulario y su envío | Crear los campos de contacto, validar los datos e integrar el servicio externo de formularios para enviar la consulta y conservar el correo del remitente. | 6 | Yam Cano (formulario); Oliver Jonseck (envío) | Done |
-| US-42 / US-43 | Navegación y pie de página | UT-10 / UT-11 | Implementar la navegación y el pie de página | Crear el menú fijo con desplazamiento a secciones y versión móvil, e incorporar enlaces institucionales, políticas y medios de contacto en el footer. | 5 | Diego Pumahualcca (navegación); Yam Cano (footer) | Done |
-| - | - | UT-13 / UT-14 | Definir fundamentos visuales y wireframes | Establecer paleta, tipografía y espaciados en Figma y elaborar los wireframes de la landing para escritorio y móvil. | 7 | Sebastián Rubio | Done |
-| - | - | UT-15 | Diseñar los mock-ups de la landing | Elaborar los mock-ups de las secciones en Figma. | 6 | Sunio Landa | Done |
-| - | - | UT-16 / UT-17 | Verificar el diseño adaptable y publicar la landing | Revisar la visualización en móvil y escritorio, corregir desbordes y configurar GitHub Pages con verificación de la URL pública. | 6 | Oliver Jonseck (diseño adaptable); Sunio Landa (despliegue) | Done |
-| - | - | UT-18 / UT-19 / UT-20 | Documentar la planificación y las evidencias del sprint | Registrar planificación, responsabilidades, backlog, commits, ejecución, despliegue e insights, e incorporar wireframes y mock-ups al informe. | 8 | Yam Cano (planificación); Sunio Landa (evidencias); Sebastián Rubio (diseños) | Done |
 
 #### 5.2.1.4. Development Evidence for Sprint Review. 
 
